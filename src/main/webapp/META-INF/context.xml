@@ -1,0 +1,3 @@
+<!-- Default context. Should be overridden by one created by installer in tomcat/conf/Catalina/localhost -->
+<Context crossContext="true">
+</Context>
